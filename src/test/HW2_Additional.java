@@ -90,7 +90,7 @@ public class HW2_Additional {
         int[] mas3 = new int[10];
         mas3 = mas;
         boolean index = false;
-
+// smth
         for (int i = 0; i < mas.length; i++) {
             for (int j = 0; j < mas3.length; j++) {
                 if (mas[i] == mas3[j] && i != j) {
