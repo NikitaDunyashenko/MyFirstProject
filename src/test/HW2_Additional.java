@@ -98,7 +98,7 @@ public class HW2_Additional {
                 }
             }
         }
-        if (index == false) {
+        if (index == true) {
             System.out.println("Elements of the array are repeated");
         } else {
             System.out.println("Elements of the array are not repeated");
