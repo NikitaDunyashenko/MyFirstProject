@@ -33,7 +33,8 @@ public class Program {
 
         for (Product goods : products) {
             goods.saleProduct("ITACOM1003");
-                products.remove(products);
+                products.remove(computer);
+                break;
             }
 
         System.out.println("The list of left goods for selling:");
